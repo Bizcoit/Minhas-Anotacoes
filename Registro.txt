@@ -1,0 +1,6 @@
+Estrutura do tipo
+
+Registro
+
+O que é: Um registro é uma estrutura que fornece um formato especializado para armazenar informações em memória
+Enquanto arrays nos permite amazenar vários dados de um único tipo de dados, o recurso de registro no permiter amazenar mais de um tipo de dado

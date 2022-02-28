@@ -1,0 +1,20 @@
+Lógica de Programação
+
+Compiladas: É uma linguagem de programação em que o código fonte, é executado diretamente pelo sistema operacional ou pelo
+processador, após ser traduzido por meio de um processo chamado compilação
+O compilador pega o código e transforma num arquivo .exe e executar pelo sistema operacional
+Exemplo de linguagem abordada é c#, Visual Basic, Delphi c++
+
+Interpretadas: É uma linguagem de programação em que o código fonte é executado por um programa de computador chamado
+ interpretador, que em seguida é executado pelo sistema operacional ou processador
+Elas são interpretadas pelo browser, javascript, php, interpretado
+
+desvio condicional
+
+Utilização do "se": É utilizada a palavra reservada se, a condição a ser testada entre
+parenteses e as instruções que devem ser executadas entre chaves caso o desvio seja
+verdadeiro
+
+
+
+

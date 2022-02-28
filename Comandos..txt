@@ -1,0 +1,32 @@
+Comandos:
+
+Windows:
+dir:listagem
+cd:entrada
+mkdir: criação
+rmdir /S /Q: Deletagem de repositório
+rmdir: deletagem
+ls -a: mostra arquivos ocultos
+
+git:
+ssh-keygen -t ed25519 -C email@gmail.com: criação de chave ssh
+cat (chave pub): mostrar a chave pública
+eval $(ssh-agent -s): Mostrar o agente
+ssh-add (chave pub): add a chave ao a gente.
+git clone: clonar a pasta do github
+git init: iniciar um repositório
+git add: mover arquivos
+git add *: add tudo do arquivo para a inicialização de um commit
+git commit: criação de commit
+git config --global user.email "email@gmail.com": adicionar um email ao git
+git config --global user.name "nome": adicionar o nome
+git commit -m "commit inicial": criar um commit
+git status: monitora os status dos arquivos dentro do git
+mv: comando pra mover
+git config --list: traz a lista de todas as config do git
+git config --global --unset (propriedade específica)
+git remote add (name) (link): adicionar o repositório do github
+git push (name) master: empurra do repositório local para o remoto
+git pull: puxar o contéudo do repositório remoto
+git remote -v: traz os repositórios remotos apontado
+
